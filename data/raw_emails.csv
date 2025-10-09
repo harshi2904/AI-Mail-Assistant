@@ -1,0 +1,196 @@
+id,subject,body,category
+1,IT Support Query #1,Please reset my system password.,IT Support
+2,IT Support Query #2,My laptop is not connecting to the Wi-Fi network.,IT Support
+3,IT Support Query #3,The printer in the 3rd floor office is not working.,IT Support
+4,IT Support Query #4,The printer in the 3rd floor office is not working.,IT Support
+5,IT Support Query #5,VPN connection keeps dropping frequently.,IT Support
+6,IT Support Query #6,The printer in the 3rd floor office is not working.,IT Support
+7,IT Support Query #7,Outlook is not syncing my emails.,IT Support
+8,IT Support Query #8,Please reset my system password.,IT Support
+9,IT Support Query #9,My laptop is not connecting to the Wi-Fi network.,IT Support
+10,IT Support Query #10,Outlook is not syncing my emails.,IT Support
+11,IT Support Query #11,My laptop is not connecting to the Wi-Fi network.,IT Support
+12,IT Support Query #12,VPN connection keeps dropping frequently.,IT Support
+13,IT Support Query #13,The printer in the 3rd floor office is not working.,IT Support
+14,IT Support Query #14,VPN connection keeps dropping frequently.,IT Support
+15,IT Support Query #15,Outlook is not syncing my emails.,IT Support
+16,IT Support Query #16,VPN connection keeps dropping frequently.,IT Support
+17,IT Support Query #17,VPN connection keeps dropping frequently.,IT Support
+18,IT Support Query #18,Please reset my system password.,IT Support
+19,IT Support Query #19,Please reset my system password.,IT Support
+20,IT Support Query #20,Outlook is not syncing my emails.,IT Support
+21,IT Support Query #21,My laptop is not connecting to the Wi-Fi network.,IT Support
+22,IT Support Query #22,My laptop is not connecting to the Wi-Fi network.,IT Support
+23,IT Support Query #23,Please reset my system password.,IT Support
+24,IT Support Query #24,Outlook is not syncing my emails.,IT Support
+25,IT Support Query #25,Outlook is not syncing my emails.,IT Support
+26,IT Support Query #26,VPN connection keeps dropping frequently.,IT Support
+27,IT Support Query #27,VPN connection keeps dropping frequently.,IT Support
+28,IT Support Query #28,Please reset my system password.,IT Support
+29,IT Support Query #29,Outlook is not syncing my emails.,IT Support
+30,IT Support Query #30,Outlook is not syncing my emails.,IT Support
+31,IT Support Query #31,Please reset my system password.,IT Support
+32,IT Support Query #32,The printer in the 3rd floor office is not working.,IT Support
+33,IT Support Query #33,Please reset my system password.,IT Support
+34,IT Support Query #34,The printer in the 3rd floor office is not working.,IT Support
+35,IT Support Query #35,The printer in the 3rd floor office is not working.,IT Support
+36,IT Support Query #36,VPN connection keeps dropping frequently.,IT Support
+37,IT Support Query #37,The printer in the 3rd floor office is not working.,IT Support
+38,IT Support Query #38,VPN connection keeps dropping frequently.,IT Support
+39,IT Support Query #39,Please reset my system password.,IT Support
+40,HR Query #1,Can you update my bank details in the HR portal?,HR
+41,HR Query #2,When will the appraisal process start?,HR
+42,HR Query #3,I want to apply for sick leave for two days.,HR
+43,HR Query #4,Please share my salary slip for last month.,HR
+44,HR Query #5,Can you update my bank details in the HR portal?,HR
+45,HR Query #6,When will the appraisal process start?,HR
+46,HR Query #7,When will the appraisal process start?,HR
+47,HR Query #8,Please share my salary slip for last month.,HR
+48,HR Query #9,When will the appraisal process start?,HR
+49,HR Query #10,Please share my salary slip for last month.,HR
+50,HR Query #11,I want to apply for sick leave for two days.,HR
+51,HR Query #12,I need the joining letter for my background check.,HR
+52,HR Query #13,I need the joining letter for my background check.,HR
+53,HR Query #14,Can you update my bank details in the HR portal?,HR
+54,HR Query #15,I want to apply for sick leave for two days.,HR
+55,HR Query #16,I need the joining letter for my background check.,HR
+56,HR Query #17,Can you update my bank details in the HR portal?,HR
+57,HR Query #18,Please share my salary slip for last month.,HR
+58,HR Query #19,I want to apply for sick leave for two days.,HR
+59,HR Query #20,Please share my salary slip for last month.,HR
+60,HR Query #21,When will the appraisal process start?,HR
+61,HR Query #22,I want to apply for sick leave for two days.,HR
+62,HR Query #23,I want to apply for sick leave for two days.,HR
+63,HR Query #24,Can you update my bank details in the HR portal?,HR
+64,HR Query #25,Please share my salary slip for last month.,HR
+65,HR Query #26,When will the appraisal process start?,HR
+66,HR Query #27,When will the appraisal process start?,HR
+67,HR Query #28,I want to apply for sick leave for two days.,HR
+68,HR Query #29,I need the joining letter for my background check.,HR
+69,HR Query #30,I need the joining letter for my background check.,HR
+70,HR Query #31,When will the appraisal process start?,HR
+71,HR Query #32,I need the joining letter for my background check.,HR
+72,HR Query #33,Please share my salary slip for last month.,HR
+73,HR Query #34,When will the appraisal process start?,HR
+74,HR Query #35,I want to apply for sick leave for two days.,HR
+75,HR Query #36,Please share my salary slip for last month.,HR
+76,HR Query #37,I want to apply for sick leave for two days.,HR
+77,HR Query #38,When will the appraisal process start?,HR
+78,HR Query #39,I want to apply for sick leave for two days.,HR
+79,Finance Query #1,Please provide invoice for last month’s purchase.,Finance
+80,Finance Query #2,Please provide invoice for last month’s purchase.,Finance
+81,Finance Query #3,My reimbursement request has not been approved yet.,Finance
+82,Finance Query #4,There’s an error in my tax deduction for this month.,Finance
+83,Finance Query #5,Can you share the expense policy document?,Finance
+84,Finance Query #6,There’s an error in my tax deduction for this month.,Finance
+85,Finance Query #7,There’s an error in my tax deduction for this month.,Finance
+86,Finance Query #8,Can you share the expense policy document?,Finance
+87,Finance Query #9,Please provide invoice for last month’s purchase.,Finance
+88,Finance Query #10,My reimbursement request has not been approved yet.,Finance
+89,Finance Query #11,Payment to vendor ABC is still pending.,Finance
+90,Finance Query #12,Payment to vendor ABC is still pending.,Finance
+91,Finance Query #13,My reimbursement request has not been approved yet.,Finance
+92,Finance Query #14,There’s an error in my tax deduction for this month.,Finance
+93,Finance Query #15,Payment to vendor ABC is still pending.,Finance
+94,Finance Query #16,Payment to vendor ABC is still pending.,Finance
+95,Finance Query #17,Can you share the expense policy document?,Finance
+96,Finance Query #18,Please provide invoice for last month’s purchase.,Finance
+97,Finance Query #19,There’s an error in my tax deduction for this month.,Finance
+98,Finance Query #20,There’s an error in my tax deduction for this month.,Finance
+99,Finance Query #21,Can you share the expense policy document?,Finance
+100,Finance Query #22,Please provide invoice for last month’s purchase.,Finance
+101,Finance Query #23,Payment to vendor ABC is still pending.,Finance
+102,Finance Query #24,Can you share the expense policy document?,Finance
+103,Finance Query #25,There’s an error in my tax deduction for this month.,Finance
+104,Finance Query #26,My reimbursement request has not been approved yet.,Finance
+105,Finance Query #27,There’s an error in my tax deduction for this month.,Finance
+106,Finance Query #28,Please provide invoice for last month’s purchase.,Finance
+107,Finance Query #29,Please provide invoice for last month’s purchase.,Finance
+108,Finance Query #30,There’s an error in my tax deduction for this month.,Finance
+109,Finance Query #31,Please provide invoice for last month’s purchase.,Finance
+110,Finance Query #32,There’s an error in my tax deduction for this month.,Finance
+111,Finance Query #33,Payment to vendor ABC is still pending.,Finance
+112,Finance Query #34,My reimbursement request has not been approved yet.,Finance
+113,Finance Query #35,There’s an error in my tax deduction for this month.,Finance
+114,Finance Query #36,My reimbursement request has not been approved yet.,Finance
+115,Finance Query #37,Payment to vendor ABC is still pending.,Finance
+116,Finance Query #38,Please provide invoice for last month’s purchase.,Finance
+117,Finance Query #39,Please provide invoice for last month’s purchase.,Finance
+118,Admin Query #1,Can you arrange stationery for the new interns?,Admin
+119,Admin Query #2,Please book a meeting room for tomorrow.,Admin
+120,Admin Query #3,Can you arrange stationery for the new interns?,Admin
+121,Admin Query #4,The AC in meeting room A is not cooling properly.,Admin
+122,Admin Query #5,The AC in meeting room A is not cooling properly.,Admin
+123,Admin Query #6,"Need a new ID card, mine is damaged.",Admin
+124,Admin Query #7,Please book a meeting room for tomorrow.,Admin
+125,Admin Query #8,The projector is not functioning.,Admin
+126,Admin Query #9,The AC in meeting room A is not cooling properly.,Admin
+127,Admin Query #10,The AC in meeting room A is not cooling properly.,Admin
+128,Admin Query #11,Please book a meeting room for tomorrow.,Admin
+129,Admin Query #12,"Need a new ID card, mine is damaged.",Admin
+130,Admin Query #13,"Need a new ID card, mine is damaged.",Admin
+131,Admin Query #14,The AC in meeting room A is not cooling properly.,Admin
+132,Admin Query #15,Please book a meeting room for tomorrow.,Admin
+133,Admin Query #16,"Need a new ID card, mine is damaged.",Admin
+134,Admin Query #17,Please book a meeting room for tomorrow.,Admin
+135,Admin Query #18,The AC in meeting room A is not cooling properly.,Admin
+136,Admin Query #19,"Need a new ID card, mine is damaged.",Admin
+137,Admin Query #20,"Need a new ID card, mine is damaged.",Admin
+138,Admin Query #21,"Need a new ID card, mine is damaged.",Admin
+139,Admin Query #22,The projector is not functioning.,Admin
+140,Admin Query #23,The AC in meeting room A is not cooling properly.,Admin
+141,Admin Query #24,The AC in meeting room A is not cooling properly.,Admin
+142,Admin Query #25,The projector is not functioning.,Admin
+143,Admin Query #26,Can you arrange stationery for the new interns?,Admin
+144,Admin Query #27,The AC in meeting room A is not cooling properly.,Admin
+145,Admin Query #28,The projector is not functioning.,Admin
+146,Admin Query #29,"Need a new ID card, mine is damaged.",Admin
+147,Admin Query #30,Can you arrange stationery for the new interns?,Admin
+148,Admin Query #31,"Need a new ID card, mine is damaged.",Admin
+149,Admin Query #32,Please book a meeting room for tomorrow.,Admin
+150,Admin Query #33,The projector is not functioning.,Admin
+151,Admin Query #34,"Need a new ID card, mine is damaged.",Admin
+152,Admin Query #35,"Need a new ID card, mine is damaged.",Admin
+153,Admin Query #36,Please book a meeting room for tomorrow.,Admin
+154,Admin Query #37,Please book a meeting room for tomorrow.,Admin
+155,Admin Query #38,Can you arrange stationery for the new interns?,Admin
+156,Admin Query #39,Please book a meeting room for tomorrow.,Admin
+157,General Query #1,Can we schedule a call to discuss the new policy?,General
+158,General Query #2,Can we schedule a call to discuss the new policy?,General
+159,General Query #3,Let’s plan the team outing next week.,General
+160,General Query #4,Thank you for your quick response!,General
+161,General Query #5,Please review the attached document and share feedback.,General
+162,General Query #6,Thank you for your quick response!,General
+163,General Query #7,"Good morning team, please find attached the weekly report.",General
+164,General Query #8,Please review the attached document and share feedback.,General
+165,General Query #9,Please review the attached document and share feedback.,General
+166,General Query #10,Thank you for your quick response!,General
+167,General Query #11,"Good morning team, please find attached the weekly report.",General
+168,General Query #12,Can we schedule a call to discuss the new policy?,General
+169,General Query #13,Please review the attached document and share feedback.,General
+170,General Query #14,"Good morning team, please find attached the weekly report.",General
+171,General Query #15,Can we schedule a call to discuss the new policy?,General
+172,General Query #16,Please review the attached document and share feedback.,General
+173,General Query #17,Thank you for your quick response!,General
+174,General Query #18,"Good morning team, please find attached the weekly report.",General
+175,General Query #19,"Good morning team, please find attached the weekly report.",General
+176,General Query #20,Let’s plan the team outing next week.,General
+177,General Query #21,Thank you for your quick response!,General
+178,General Query #22,Please review the attached document and share feedback.,General
+179,General Query #23,Can we schedule a call to discuss the new policy?,General
+180,General Query #24,"Good morning team, please find attached the weekly report.",General
+181,General Query #25,Please review the attached document and share feedback.,General
+182,General Query #26,Thank you for your quick response!,General
+183,General Query #27,"Good morning team, please find attached the weekly report.",General
+184,General Query #28,Please review the attached document and share feedback.,General
+185,General Query #29,"Good morning team, please find attached the weekly report.",General
+186,General Query #30,"Good morning team, please find attached the weekly report.",General
+187,General Query #31,"Good morning team, please find attached the weekly report.",General
+188,General Query #32,Can we schedule a call to discuss the new policy?,General
+189,General Query #33,Thank you for your quick response!,General
+190,General Query #34,"Good morning team, please find attached the weekly report.",General
+191,General Query #35,Thank you for your quick response!,General
+192,General Query #36,Let’s plan the team outing next week.,General
+193,General Query #37,Thank you for your quick response!,General
+194,General Query #38,"Good morning team, please find attached the weekly report.",General
+195,General Query #39,"Good morning team, please find attached the weekly report.",General

@@ -1,0 +1,196 @@
+id,text,category
+1,IT Support Query #1 please reset system password,IT Support
+2,IT Support Query #2 laptop connecting wifi network,IT Support
+3,IT Support Query #3 printer rd floor office working,IT Support
+4,IT Support Query #4 printer rd floor office working,IT Support
+5,IT Support Query #5 vpn connection keep dropping frequently,IT Support
+6,IT Support Query #6 printer rd floor office working,IT Support
+7,IT Support Query #7 outlook syncing email,IT Support
+8,IT Support Query #8 please reset system password,IT Support
+9,IT Support Query #9 laptop connecting wifi network,IT Support
+10,IT Support Query #10 outlook syncing email,IT Support
+11,IT Support Query #11 laptop connecting wifi network,IT Support
+12,IT Support Query #12 vpn connection keep dropping frequently,IT Support
+13,IT Support Query #13 printer rd floor office working,IT Support
+14,IT Support Query #14 vpn connection keep dropping frequently,IT Support
+15,IT Support Query #15 outlook syncing email,IT Support
+16,IT Support Query #16 vpn connection keep dropping frequently,IT Support
+17,IT Support Query #17 vpn connection keep dropping frequently,IT Support
+18,IT Support Query #18 please reset system password,IT Support
+19,IT Support Query #19 please reset system password,IT Support
+20,IT Support Query #20 outlook syncing email,IT Support
+21,IT Support Query #21 laptop connecting wifi network,IT Support
+22,IT Support Query #22 laptop connecting wifi network,IT Support
+23,IT Support Query #23 please reset system password,IT Support
+24,IT Support Query #24 outlook syncing email,IT Support
+25,IT Support Query #25 outlook syncing email,IT Support
+26,IT Support Query #26 vpn connection keep dropping frequently,IT Support
+27,IT Support Query #27 vpn connection keep dropping frequently,IT Support
+28,IT Support Query #28 please reset system password,IT Support
+29,IT Support Query #29 outlook syncing email,IT Support
+30,IT Support Query #30 outlook syncing email,IT Support
+31,IT Support Query #31 please reset system password,IT Support
+32,IT Support Query #32 printer rd floor office working,IT Support
+33,IT Support Query #33 please reset system password,IT Support
+34,IT Support Query #34 printer rd floor office working,IT Support
+35,IT Support Query #35 printer rd floor office working,IT Support
+36,IT Support Query #36 vpn connection keep dropping frequently,IT Support
+37,IT Support Query #37 printer rd floor office working,IT Support
+38,IT Support Query #38 vpn connection keep dropping frequently,IT Support
+39,IT Support Query #39 please reset system password,IT Support
+40,HR Query #1 update bank detail hr portal,HR
+41,HR Query #2 appraisal process start,HR
+42,HR Query #3 want apply sick leave two day,HR
+43,HR Query #4 please share salary slip last month,HR
+44,HR Query #5 update bank detail hr portal,HR
+45,HR Query #6 appraisal process start,HR
+46,HR Query #7 appraisal process start,HR
+47,HR Query #8 please share salary slip last month,HR
+48,HR Query #9 appraisal process start,HR
+49,HR Query #10 please share salary slip last month,HR
+50,HR Query #11 want apply sick leave two day,HR
+51,HR Query #12 need joining letter background check,HR
+52,HR Query #13 need joining letter background check,HR
+53,HR Query #14 update bank detail hr portal,HR
+54,HR Query #15 want apply sick leave two day,HR
+55,HR Query #16 need joining letter background check,HR
+56,HR Query #17 update bank detail hr portal,HR
+57,HR Query #18 please share salary slip last month,HR
+58,HR Query #19 want apply sick leave two day,HR
+59,HR Query #20 please share salary slip last month,HR
+60,HR Query #21 appraisal process start,HR
+61,HR Query #22 want apply sick leave two day,HR
+62,HR Query #23 want apply sick leave two day,HR
+63,HR Query #24 update bank detail hr portal,HR
+64,HR Query #25 please share salary slip last month,HR
+65,HR Query #26 appraisal process start,HR
+66,HR Query #27 appraisal process start,HR
+67,HR Query #28 want apply sick leave two day,HR
+68,HR Query #29 need joining letter background check,HR
+69,HR Query #30 need joining letter background check,HR
+70,HR Query #31 appraisal process start,HR
+71,HR Query #32 need joining letter background check,HR
+72,HR Query #33 please share salary slip last month,HR
+73,HR Query #34 appraisal process start,HR
+74,HR Query #35 want apply sick leave two day,HR
+75,HR Query #36 please share salary slip last month,HR
+76,HR Query #37 want apply sick leave two day,HR
+77,HR Query #38 appraisal process start,HR
+78,HR Query #39 want apply sick leave two day,HR
+79,Finance Query #1 please provide invoice last month purchase,Finance
+80,Finance Query #2 please provide invoice last month purchase,Finance
+81,Finance Query #3 reimbursement request approved yet,Finance
+82,Finance Query #4 there error tax deduction month,Finance
+83,Finance Query #5 share expense policy document,Finance
+84,Finance Query #6 there error tax deduction month,Finance
+85,Finance Query #7 there error tax deduction month,Finance
+86,Finance Query #8 share expense policy document,Finance
+87,Finance Query #9 please provide invoice last month purchase,Finance
+88,Finance Query #10 reimbursement request approved yet,Finance
+89,Finance Query #11 payment vendor abc still pending,Finance
+90,Finance Query #12 payment vendor abc still pending,Finance
+91,Finance Query #13 reimbursement request approved yet,Finance
+92,Finance Query #14 there error tax deduction month,Finance
+93,Finance Query #15 payment vendor abc still pending,Finance
+94,Finance Query #16 payment vendor abc still pending,Finance
+95,Finance Query #17 share expense policy document,Finance
+96,Finance Query #18 please provide invoice last month purchase,Finance
+97,Finance Query #19 there error tax deduction month,Finance
+98,Finance Query #20 there error tax deduction month,Finance
+99,Finance Query #21 share expense policy document,Finance
+100,Finance Query #22 please provide invoice last month purchase,Finance
+101,Finance Query #23 payment vendor abc still pending,Finance
+102,Finance Query #24 share expense policy document,Finance
+103,Finance Query #25 there error tax deduction month,Finance
+104,Finance Query #26 reimbursement request approved yet,Finance
+105,Finance Query #27 there error tax deduction month,Finance
+106,Finance Query #28 please provide invoice last month purchase,Finance
+107,Finance Query #29 please provide invoice last month purchase,Finance
+108,Finance Query #30 there error tax deduction month,Finance
+109,Finance Query #31 please provide invoice last month purchase,Finance
+110,Finance Query #32 there error tax deduction month,Finance
+111,Finance Query #33 payment vendor abc still pending,Finance
+112,Finance Query #34 reimbursement request approved yet,Finance
+113,Finance Query #35 there error tax deduction month,Finance
+114,Finance Query #36 reimbursement request approved yet,Finance
+115,Finance Query #37 payment vendor abc still pending,Finance
+116,Finance Query #38 please provide invoice last month purchase,Finance
+117,Finance Query #39 please provide invoice last month purchase,Finance
+118,Admin Query #1 arrange stationery new intern,Admin
+119,Admin Query #2 please book meeting room tomorrow,Admin
+120,Admin Query #3 arrange stationery new intern,Admin
+121,Admin Query #4 ac meeting room cooling properly,Admin
+122,Admin Query #5 ac meeting room cooling properly,Admin
+123,Admin Query #6 need new id card mine damaged,Admin
+124,Admin Query #7 please book meeting room tomorrow,Admin
+125,Admin Query #8 projector functioning,Admin
+126,Admin Query #9 ac meeting room cooling properly,Admin
+127,Admin Query #10 ac meeting room cooling properly,Admin
+128,Admin Query #11 please book meeting room tomorrow,Admin
+129,Admin Query #12 need new id card mine damaged,Admin
+130,Admin Query #13 need new id card mine damaged,Admin
+131,Admin Query #14 ac meeting room cooling properly,Admin
+132,Admin Query #15 please book meeting room tomorrow,Admin
+133,Admin Query #16 need new id card mine damaged,Admin
+134,Admin Query #17 please book meeting room tomorrow,Admin
+135,Admin Query #18 ac meeting room cooling properly,Admin
+136,Admin Query #19 need new id card mine damaged,Admin
+137,Admin Query #20 need new id card mine damaged,Admin
+138,Admin Query #21 need new id card mine damaged,Admin
+139,Admin Query #22 projector functioning,Admin
+140,Admin Query #23 ac meeting room cooling properly,Admin
+141,Admin Query #24 ac meeting room cooling properly,Admin
+142,Admin Query #25 projector functioning,Admin
+143,Admin Query #26 arrange stationery new intern,Admin
+144,Admin Query #27 ac meeting room cooling properly,Admin
+145,Admin Query #28 projector functioning,Admin
+146,Admin Query #29 need new id card mine damaged,Admin
+147,Admin Query #30 arrange stationery new intern,Admin
+148,Admin Query #31 need new id card mine damaged,Admin
+149,Admin Query #32 please book meeting room tomorrow,Admin
+150,Admin Query #33 projector functioning,Admin
+151,Admin Query #34 need new id card mine damaged,Admin
+152,Admin Query #35 need new id card mine damaged,Admin
+153,Admin Query #36 please book meeting room tomorrow,Admin
+154,Admin Query #37 please book meeting room tomorrow,Admin
+155,Admin Query #38 arrange stationery new intern,Admin
+156,Admin Query #39 please book meeting room tomorrow,Admin
+157,General Query #1 schedule call discus new policy,General
+158,General Query #2 schedule call discus new policy,General
+159,General Query #3 let plan team outing next week,General
+160,General Query #4 thank quick response,General
+161,General Query #5 please review attached document share feedback,General
+162,General Query #6 thank quick response,General
+163,General Query #7 good morning team please find attached weekly report,General
+164,General Query #8 please review attached document share feedback,General
+165,General Query #9 please review attached document share feedback,General
+166,General Query #10 thank quick response,General
+167,General Query #11 good morning team please find attached weekly report,General
+168,General Query #12 schedule call discus new policy,General
+169,General Query #13 please review attached document share feedback,General
+170,General Query #14 good morning team please find attached weekly report,General
+171,General Query #15 schedule call discus new policy,General
+172,General Query #16 please review attached document share feedback,General
+173,General Query #17 thank quick response,General
+174,General Query #18 good morning team please find attached weekly report,General
+175,General Query #19 good morning team please find attached weekly report,General
+176,General Query #20 let plan team outing next week,General
+177,General Query #21 thank quick response,General
+178,General Query #22 please review attached document share feedback,General
+179,General Query #23 schedule call discus new policy,General
+180,General Query #24 good morning team please find attached weekly report,General
+181,General Query #25 please review attached document share feedback,General
+182,General Query #26 thank quick response,General
+183,General Query #27 good morning team please find attached weekly report,General
+184,General Query #28 please review attached document share feedback,General
+185,General Query #29 good morning team please find attached weekly report,General
+186,General Query #30 good morning team please find attached weekly report,General
+187,General Query #31 good morning team please find attached weekly report,General
+188,General Query #32 schedule call discus new policy,General
+189,General Query #33 thank quick response,General
+190,General Query #34 good morning team please find attached weekly report,General
+191,General Query #35 thank quick response,General
+192,General Query #36 let plan team outing next week,General
+193,General Query #37 thank quick response,General
+194,General Query #38 good morning team please find attached weekly report,General
+195,General Query #39 good morning team please find attached weekly report,General

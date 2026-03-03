@@ -2,7 +2,6 @@
 ### Built with Machine Learning + Generative AI (SymphonyAI-Style Project)
 
 An **enterprise-grade AI application** that classifies, summarizes, and auto-replies to business emails using a hybrid **Machine Learning + Generative AI** pipeline.  
-Inspired by SymphonyAI’s *AI Copilot for Work*, this project demonstrates how GenAI can automate email triage and improve enterprise communication efficiency.
 
 ---
 
